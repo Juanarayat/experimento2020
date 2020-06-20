@@ -31,7 +31,7 @@ void main()
 	muestraEnteroLargo(numero);// aqui termina la primera comprobacion*/
 	
 /*	EnteroLargo *numero,*numero1;
-	char *numero_string;// desde aqui se crea un string de tamaño dinamico , luego se pide memoria para crear el string de tamaño  TAM * el tipo de dato char
+	char *numero_string;// desde aqui se crea un string de tamaÃ±o dinamico , luego se pide memoria para crear el string de tamaÃ±o  TAM * el tipo de dato char
 	numero_string = malloc(sizeof(char)*TAM);
 	printf("ingresa numero que se leera como string \n");
 	scanf("%s",numero_string);
@@ -67,7 +67,8 @@ void main()
 	numero=restaEnteroLargo(numero,numero3);
 	escribeEnteroLargo(archivo,numero);
 	muestraEnteroLargo(numero);
-
+// esta modificacion solo se ve en rama secundaria
+// posteriormente se hara la union de la rama con su rama master
 	
 }
 
