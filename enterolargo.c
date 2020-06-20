@@ -69,6 +69,7 @@ void main()
 	muestraEnteroLargo(numero);
 // esta modificacion solo se ve en rama secundaria
 // posteriormente se hara la union de la rama con su rama master
+// esta edicion la hice desde computadora 
 	
 }
 
